@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Общее">
+        <menu>
+            <item
+                android:id="@+id/main_page"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Заглавная страница" />
+            <item
+                android:id="@+id/current_events"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Текущие события" />
+            <item
+                android:id="@+id/new_changes"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Свежие правки" />
+            <item
+                android:id="@+id/new_pages"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Новые страницы" />
+        </menu>
+    </item>
+
+    <item android:title="Содержание">
+        <menu>
+            <item
+                android:id="@+id/faculties"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Факультеты" />
+            <item
+                android:id="@+id/pulpit"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Кафедры" />
+            <item
+                android:id="@+id/subjects"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Предметы" />
+            <item
+                android:id="@+id/teachers"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Преподаватели" />
+            <item
+                android:id="@+id/rating"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Рейтинг" />
+            <item
+                android:id="@+id/add"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Добавить" />
+        </menu>
+    </item>
+
+</menu>
