@@ -1,0 +1,25 @@
+{"SearchSuggestion":
+{"version":2,
+"xmlns":"http:\/\/opensearch.org\/searchsuggest2",
+"Query":{"xml:space":"preserve","content":"а"},
+"Section":{"Item":
+[
+{"Text":{"xml:space":"preserve","content":"Факультет аэрофизики и космических исследований"},"Url":{"xml:space":"preserve","content":"http:\/\/wikimipt.org\/wiki\/%D0%A4%D0%B0%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D0%B5%D1%82_%D0%B0%D1%8D%D1%80%D0%BE%D1%84%D0%B8%D0%B7%D0%B8%D0%BA%D0%B8_%D0%B8_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D1%85_%D0%B8%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9"}},
+
+{"Text":{"xml:space":"preserve","content":"Абаимов Сергей Германович"},"Url":{"xml:space":"preserve","content":"http:\/\/wikimipt.org\/wiki\/%D0%90%D0%B1%D0%B0%D0%B8%D0%BC%D0%BE%D0%B2_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%87"}},
+
+{"Text":{"xml:space":"preserve","content":"Абакумов Михаил Михайлович"},"Url":{"xml:space":"preserve","content":"http:\/\/wikimipt.org\/wiki\/%D0%90%D0%B1%D0%B0%D0%BA%D1%83%D0%BC%D0%BE%D0%B2_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87"}},
+
+{"Text":{"xml:space":"preserve","content":"Абдулгамидов Низами Абдулгамидович"},"Url":{"xml:space":"preserve","content":"http:\/\/wikimipt.org\/wiki\/%D0%90%D0%B1%D0%B4%D1%83%D0%BB%D0%B3%D0%B0%D0%BC%D0%B8%D0%B4%D0%BE%D0%B2_%D0%9D%D0%B8%D0%B7%D0%B0%D0%BC%D0%B8_%D0%90%D0%B1%D0%B4%D1%83%D0%BB%D0%B3%D0%B0%D0%BC%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87"}},
+
+{"Text":{"xml:space":"preserve","content":"Абрамов Александр Александрович"},"Url":{"xml:space":"preserve","content":"http:\/\/wikimipt.org\/wiki\/%D0%90%D0%B1%D1%80%D0%B0%D0%BC%D0%BE%D0%B2_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87"}},
+
+{"Text":{"xml:space":"preserve","content":"Абрамов Борис Михайлович"},"Url":{"xml:space":"preserve","content":"http:\/\/wikimipt.org\/wiki\/%D0%90%D0%B1%D1%80%D0%B0%D0%BC%D0%BE%D0%B2_%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87"}},
+
+{"Text":{"xml:space":"preserve","content":"Абрамова Ксения Борисовна"},"Url":{"xml:space":"preserve","content":"http:\/\/wikimipt.org\/wiki\/%D0%90%D0%B1%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0_%D0%9A%D1%81%D0%B5%D0%BD%D0%B8%D1%8F_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%BD%D0%B0"}},
+
+{"Text":{"xml:space":"preserve","content":"Абрикосов Алексей Алексеевич"},"Url":{"xml:space":"preserve","content":"http:\/\/wikimipt.org\/wiki\/%D0%90%D0%B1%D1%80%D0%B8%D0%BA%D0%BE%D1%81%D0%BE%D0%B2_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B5%D0%B2%D0%B8%D1%87"}},
+
+{"Text":{"xml:space":"preserve","content":"Абубакирова Наталия Петровна"},"Url":{"xml:space":"preserve","content":"http:\/\/wikimipt.org\/wiki\/%D0%90%D0%B1%D1%83%D0%B1%D0%B0%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%B0_%D0%9D%D0%B0%D1%82%D0%B0%D0%BB%D0%B8%D1%8F_%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2%D0%BD%D0%B0"}},
+
+{"Text":{"xml:space":"preserve","content":"Аверин Владимир Георгиевич"},"Url":{"xml:space":"preserve","content":"http:\/\/wikimipt.org\/wiki\/%D0%90%D0%B2%D0%B5%D1%80%D0%B8%D0%BD_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B5%D0%B2%D0%B8%D1%87"}}]}}}
