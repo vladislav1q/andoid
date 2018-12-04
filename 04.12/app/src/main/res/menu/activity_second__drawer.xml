@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:title="Главная"
+            android:id="@+id/nav_main"
+            android:icon="@drawable/ic_menu_manage"/>
+        <item
+            android:id="@+id/nav_teachers"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Преподаватели" />
+        <item
+            android:id="@+id/nav_faculties"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Факультеты" />
+        <item
+            android:id="@+id/nav_departments"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Кафедры" />
+        <item
+            android:id="@+id/nav_subjects"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Предметы" />
+        <item
+            android:id="@+id/nav_rating"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Рейтинг" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <!--<item-->
+                <!--android:id="@+id/nav_share"-->
+                <!--android:icon="@drawable/ic_menu_share"-->
+                <!--android:title="Share" />-->
+            <item
+                android:id="@+id/nav_login"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Войти" />
+        </menu>
+    </item>
+
+</menu>
